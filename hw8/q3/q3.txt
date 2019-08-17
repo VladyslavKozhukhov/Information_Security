@@ -1,0 +1,1 @@
+We can play with index of the message and compare only first digit of the password.

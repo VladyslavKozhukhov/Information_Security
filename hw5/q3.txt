@@ -1,0 +1,1 @@
+Implement decoder and encoder by the rules from the question.Using op codes of commands to pass ASCII assertion .Using buffer overflow vulnerability.

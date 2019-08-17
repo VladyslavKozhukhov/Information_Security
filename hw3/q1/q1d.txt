@@ -1,0 +1,2 @@
+change jnz opcode to jmp opcode so 
+the code jumps always to valid result

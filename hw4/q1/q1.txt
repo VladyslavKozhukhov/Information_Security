@@ -1,0 +1,1 @@
+we can change  variable auth`s memory to 1 .last digit from password has same memory address with auth.

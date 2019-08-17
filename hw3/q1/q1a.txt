@@ -1,0 +1,5 @@
+the code makes xor between first letters of the
+ message(from third letter)
+ with constanst 0x0ae and
+ compares with second letter.
+ 

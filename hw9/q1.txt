@@ -1,0 +1,1 @@
+First of all,check if its TCP +has Raw layer+dport is 80.After that looking for string username and password to return them

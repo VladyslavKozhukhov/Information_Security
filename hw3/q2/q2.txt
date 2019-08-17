@@ -1,0 +1,8 @@
+Small dead zone:
+there is code that has purpose to take us to big dead zone
+with patch 2.
+Big dead zone:
+code compares first 2 letters to !#
+if they are equel we will execute the line by calling to system,
+if the are not equel we will jump back and the code will continue
+without changes.

@@ -1,0 +1,1 @@
+we send 2 commands,json will load the second command and this command  passes the validation and after that code will exec second command(first in the msg).

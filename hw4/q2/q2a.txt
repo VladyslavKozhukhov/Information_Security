@@ -1,0 +1,1 @@
+There is no limit on password lenght so we can make buffer overflor if string is longer then 67.I have chosen speacial string to find the max size of the buffer.

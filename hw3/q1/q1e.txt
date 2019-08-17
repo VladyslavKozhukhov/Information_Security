@@ -1,0 +1,2 @@
+change return value of function to 0,
+so it always returns 0 .

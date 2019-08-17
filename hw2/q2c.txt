@@ -1,0 +1,1 @@
+Atm wating for response that encoded by card`s public key.We can encode response by calling one of the functions in atm.

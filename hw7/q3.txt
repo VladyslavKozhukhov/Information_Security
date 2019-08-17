@@ -1,0 +1,3 @@
+/home/user/7$ objdump -S binaries/antivirus -M --section=.plt > out.txt  from out.txt get GOT addr.
+
+like question 2+setenv is libc function that returns 0.

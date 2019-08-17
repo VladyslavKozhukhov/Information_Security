@@ -1,0 +1,1 @@
+change second letter in the file to be Xor of other letters(from third letter) with 0x0ae

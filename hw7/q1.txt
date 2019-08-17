@@ -1,0 +1,1 @@
+send ps +grep to virus.After that split product and take lst[0]

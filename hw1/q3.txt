@@ -1,0 +1,1 @@
+Program recieve address and store it in ESI register,after that it counts the number of  bytes that are not equal for '00000000',up to the null terminator.

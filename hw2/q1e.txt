@@ -1,0 +1,4 @@
+Function divides the text by blocks with equal lenght,same as the length of the key.
+Each of the blocks contains bytes that are encrypted with same byte.
+Crack the single byte key for each block we can make with brute_force from question c.
+All bytes taken together produce the key and after that decrypt the msg.
